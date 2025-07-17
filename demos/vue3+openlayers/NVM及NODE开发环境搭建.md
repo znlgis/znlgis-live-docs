@@ -29,6 +29,8 @@ npm_mirror: https://npmmirror.com/mirrors/npm/
 
 选择一个版本安装，比如 nvm install 20.15.0
 
+安装完成后必须执行命令使用该版本，比如 nvm use 20.15.0
+
 ## 4. 配置系统变量
 
 打开系统变量可以看到多了NVM_HOME和NVM_SYMLINK两个变量，如果没有就手动添加。
@@ -51,16 +53,16 @@ NVM_SYMLINK：nvm 配置 nodejs 的软链接，nvm use 版本号 时会自动创
 
 这里的环境配置主要配置的是npm安装的全局模块所在的路径，以及缓存cache的路径，之所以要配置，是因为npm install express [-g] 执行全局安装语句时，会将安装的模块安装到【C:\Users\用户名\AppData\Roaming\npm】路径目录下，久而久之C盘很容易被占满（C盘足够大可以无视此步骤），通过设置，将默认安装目录和缓存日志目录重新配置到其他盘符节约C盘空间
 
-### 6.1 配置缓存文件路径
+### 6.1 配置缓存文件路径（必须为绝对路径）
 
 ```shell
-    npm config set cache "%NVM_SYMLINK%\node_cache"
+    npm config set cache "C:\nvm4w\nodejs\node_cache"
 ```
 
-### 6.2 配置全局模块路径
+### 6.2 配置全局模块路径（必须为绝对路径）
 
 ```shell
-    npm config set prefix "%NVM_SYMLINK%\node_global"
+    npm config set prefix "C:\nvm4w\nodejs\node_global"
 ```
 
 ### 6.3 查看配置是否生效
@@ -75,4 +77,9 @@ NVM_SYMLINK：nvm 配置 nodejs 的软链接，nvm use 版本号 时会自动创
 
 ```shell
     %NVM_SYMLINK%\node_global
+```
+
+添加NODE_PATH系统变量
+```shell
+    %NVM_SYMLINK%\node_global\node_modules
 ```
