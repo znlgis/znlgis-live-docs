@@ -117,16 +117,16 @@
 
 | 章节 | 文件名 | 描述 |
 |------|--------|------|
-| 第一章 | [chapter01-overview.md](chapter01-overview.md) | GeoServer Cloud 概述与架构 |
-| 第二章 | [chapter02-installation.md](chapter02-installation.md) | 环境准备与安装部署 |
-| 第三章 | [chapter03-core-services.md](chapter03-core-services.md) | 核心服务详解 |
-| 第四章 | [chapter04-catalog-config.md](chapter04-catalog-config.md) | 目录与配置管理 |
-| 第五章 | [chapter05-security.md](chapter05-security.md) | 安全配置与认证 |
-| 第六章 | [chapter06-docker-compose.md](chapter06-docker-compose.md) | Docker Compose 部署实战 |
-| 第七章 | [chapter07-kubernetes.md](chapter07-kubernetes.md) | Kubernetes 部署实战 |
-| 第八章 | [chapter08-operations.md](chapter08-operations.md) | 运维监控与故障排除 |
-| 第九章 | [chapter09-development.md](chapter09-development.md) | 开发扩展与定制 |
-| 第十章 | [chapter10-best-practices.md](chapter10-best-practices.md) | 最佳实践与案例分析 |
+| 第一章 | [第01章-概述与架构.md](第01章-概述与架构.md) | GeoServer Cloud 概述与架构 |
+| 第二章 | [第02章-环境准备与安装部署.md](第02章-环境准备与安装部署.md) | 环境准备与安装部署 |
+| 第三章 | [第03章-核心服务详解.md](第03章-核心服务详解.md) | 核心服务详解 |
+| 第四章 | [第04章-目录与配置管理.md](第04章-目录与配置管理.md) | 目录与配置管理 |
+| 第五章 | [第05章-安全配置与认证.md](第05章-安全配置与认证.md) | 安全配置与认证 |
+| 第六章 | [第06章-Docker-Compose部署实战.md](第06章-Docker-Compose部署实战.md) | Docker Compose 部署实战 |
+| 第七章 | [第07章-Kubernetes部署实战.md](第07章-Kubernetes部署实战.md) | Kubernetes 部署实战 |
+| 第八章 | [第08章-运维监控与故障排除.md](第08章-运维监控与故障排除.md) | 运维监控与故障排除 |
+| 第九章 | [第09章-开发扩展与定制.md](第09章-开发扩展与定制.md) | 开发扩展与定制 |
+| 第十章 | [第10章-最佳实践与案例分析.md](第10章-最佳实践与案例分析.md) | 最佳实践与案例分析 |
 
 ## 参考资源
 
