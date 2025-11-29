@@ -18,8 +18,8 @@ title: 关于
 - **QQ群**: `289280914`
 - **B站**: [znlgis的空间](https://space.bilibili.com/161342702)
 - **博客园**: [znlgis](https://www.cnblogs.com/znlgis)
-- **GitHub**: [OpenGisToolbox](https://github.com/OpenGisToolbox)
-- **Gitee**: [OpenGisToolbox](https://gitee.com/OpenGisToolbox)
+- **GitHub**: [znlgis](https://github.com/znlgis)
+- **Gitee**: [znlgis](https://gitee.com/znlgis)
 
 ## 关于这个博客
 

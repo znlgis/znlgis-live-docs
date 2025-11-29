@@ -4,7 +4,7 @@
 
 ## 🌐 访问地址
 
-- GitHub Pages: https://znlgis.github.io/znlgis-live-docs
+- GitHub Pages: https://znlgis.github.io
 
 ## 📚 内容分类
 
@@ -23,8 +23,8 @@
 - **QQ群**: `289280914`
 - **B站**: [znlgis的空间](https://space.bilibili.com/161342702)
 - **博客园**: [znlgis](https://www.cnblogs.com/znlgis)
-- **GitHub**: [OpenGisToolbox](https://github.com/OpenGisToolbox)
-- **Gitee**: [OpenGisToolbox](https://gitee.com/OpenGisToolbox)
+- **GitHub**: [znlgis](https://github.com/znlgis)
+- **Gitee**: [znlgis](https://gitee.com/znlgis)
 
 ## 🛠️ 技术栈
 
