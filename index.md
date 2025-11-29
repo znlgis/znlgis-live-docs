@@ -32,6 +32,8 @@ title: 首页
 - [Docker-Compose部署实战](gis/tutorial/geoserver-cloud/第06章-Docker-Compose部署实战)
 - [Kubernetes部署实战](gis/tutorial/geoserver-cloud/第07章-Kubernetes部署实战)
 - [运维监控与故障排除](gis/tutorial/geoserver-cloud/第08章-运维监控与故障排除)
+- [开发扩展与定制](gis/tutorial/geoserver-cloud/第09章-开发扩展与定制)
+- [最佳实践与案例分析](gis/tutorial/geoserver-cloud/第10章-最佳实践与案例分析)
 
 ### GIS 基础
 
@@ -64,6 +66,10 @@ title: 首页
 - [权限系统与多租户实现](csharp/Admin.NET/第四章-权限系统与多租户实现)
 - [数据库操作与SqlSugar集成](csharp/Admin.NET/第五章-数据库操作与SqlSugar集成)
 - [前端Vue3开发指南](csharp/Admin.NET/第六章-前端Vue3开发指南)
+- [二次开发实战-创建自定义模块](csharp/Admin.NET/第七章-二次开发实战-创建自定义模块)
+- [二次开发实战-业务功能扩展](csharp/Admin.NET/第八章-二次开发实战-业务功能扩展)
+- [系统部署与运维指南](csharp/Admin.NET/第九章-系统部署与运维指南)
+- [最佳实践与常见问题解答](csharp/Admin.NET/第十章-最佳实践与常见问题解答)
 
 #### IFoxCAD 系列
 - [IFoxCAD概述与入门](csharp/IFoxCAD/01-IFoxCAD概述与入门)
@@ -71,12 +77,17 @@ title: 首页
 - [SymbolTable符号表操作教程](csharp/IFoxCAD/03-SymbolTable符号表操作教程)
 - [选择集过滤器与图元选择教程](csharp/IFoxCAD/04-选择集过滤器与图元选择教程)
 - [扩展数据与字典操作教程](csharp/IFoxCAD/05-扩展数据与字典操作教程)
+- [扩展方法与实用工具教程](csharp/IFoxCAD/06-扩展方法与实用工具教程)
+- [图元操作与几何处理教程](csharp/IFoxCAD/07-图元操作与几何处理教程)
+- [IFoxCAD开发实战案例教程](csharp/IFoxCAD/08-IFoxCAD开发实战案例教程)
 
 #### Clipper2 系列
 - [Clipper2概述与安装](csharp/Clipper2/第1章_Clipper2概述与安装)
 - [核心数据结构](csharp/Clipper2/第2章_核心数据结构)
 - [布尔运算操作](csharp/Clipper2/第3章_布尔运算操作)
 - [多边形偏移操作](csharp/Clipper2/第4章_多边形偏移操作)
+- [矩形裁剪与闵可夫斯基操作](csharp/Clipper2/第5章_矩形裁剪与闵可夫斯基操作)
+- [高级应用与性能优化](csharp/Clipper2/第6章_高级应用与性能优化)
 
 #### SOD 框架系列
 - [框架概述与设计理念](csharp/sod/01-框架概述与设计理念)
@@ -84,6 +95,11 @@ title: 首页
 - [快速入门与环境配置](csharp/sod/03-快速入门与环境配置)
 - [实体类与ORM映射](csharp/sod/04-实体类与ORM映射)
 - [OQL查询语言详解](csharp/sod/05-OQL查询语言详解)
+- [SQL-MAP技术深入](csharp/sod/06-SQL-MAP技术深入)
+- [数据窗体开发](csharp/sod/07-数据窗体开发)
+- [企业级解决方案](csharp/sod/08-企业级解决方案)
+- [高级特性与扩展](csharp/sod/09-高级特性与扩展)
+- [实战案例与最佳实践](csharp/sod/10-实战案例与最佳实践)
 
 ### AI 系列
 
@@ -94,6 +110,10 @@ title: 首页
 - [知识库管理](ai/dify/04-知识库管理)
 - [工作流编排](ai/dify/05-工作流编排)
 - [Agent智能助手](ai/dify/06-Agent智能助手)
+- [工具与插件系统](ai/dify/07-工具与插件系统)
+- [模型接入与配置](ai/dify/08-模型接入与配置)
+- [API集成与发布](ai/dify/09-API集成与发布)
+- [最佳实践与进阶技巧](ai/dify/10-最佳实践与进阶技巧)
 
 ### 其他教程
 
@@ -103,6 +123,8 @@ title: 首页
 - [几何建模基础](others/chili3d/03-几何建模基础)
 - [用户界面与交互系统](others/chili3d/04-用户界面与交互系统)
 - [二次开发入门](others/chili3d/05-二次开发入门)
+- [二次开发进阶](others/chili3d/06-二次开发进阶)
+- [实战案例与最佳实践](others/chili3d/07-实战案例与最佳实践)
 
 ### 项目演示
 
@@ -112,12 +134,35 @@ title: 首页
 - [坐标系统详解](demos/gistools-tutorial/03-坐标系统详解)
 - [空间关系分析](demos/gistools-tutorial/04-空间关系分析)
 - [空间计算操作](demos/gistools-tutorial/05-空间计算操作)
+- [Shapefile处理](demos/gistools-tutorial/06-Shapefile处理)
+- [GeoJSON处理](demos/gistools-tutorial/07-GeoJSON处理)
+- [PostGIS数据库](demos/gistools-tutorial/08-PostGIS数据库)
+- [国土TXT格式](demos/gistools-tutorial/09-国土TXT格式)
+- [WKT数据格式处理](demos/gistools-tutorial/10-WKT数据格式处理)
 
 #### Vue3+OpenLayers
 - [NVM及NODE开发环境搭建](demos/vue3+openlayers/NVM及NODE开发环境搭建)
 - [VUE3基础环境搭建](demos/vue3+openlayers/VUE3基础环境搭建)
 - [OpenLayers简介](demos/vue3+openlayers/OpenLayers简介)
 - [vue3-openlayers基础知识简介](demos/vue3+openlayers/vue3-openlayers基础知识简介)
+- [Demo工程代码创建说明](demos/vue3+openlayers/demo)
+- [功能需求](demos/vue3+openlayers/functional-requirement)
+- [前期准备](demos/vue3+openlayers/preparation)
+- [Docker部署](demos/vue3+openlayers/docker)
+
+#### Vue3地图大屏
+- [项目概述](demos/vue3-map-dashboard/项目概述)
+- [环境搭建](demos/vue3-map-dashboard/环境搭建)
+- [项目启动](demos/vue3-map-dashboard/项目启动)
+- [核心功能详解](demos/vue3-map-dashboard/核心功能详解)
+- [开发指南](demos/vue3-map-dashboard/开发指南)
+
+#### AI智慧水务前端
+- [项目概述](demos/ai-water-front/项目概述)
+- [环境搭建](demos/ai-water-front/环境搭建)
+- [项目启动](demos/ai-water-front/项目启动)
+- [核心功能详解](demos/ai-water-front/核心功能详解)
+- [开发指南](demos/ai-water-front/开发指南)
 
 ---
 
