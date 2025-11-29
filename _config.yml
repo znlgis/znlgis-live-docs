@@ -14,7 +14,7 @@ exclude:
   - README.md
   - LICENSE
   - .gitignore
-  - pom
+  - gis/basic/pom
 
 # 集合配置
 collections:
